@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI in general and prompt enigineering in particular
 - 💞️ I’m looking to collaborate on sharing experiences and learnings
 - 📫 How to reach me on andreas.dale@devoteam.no or via mobil + 47 911 63 229
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 andale0310/andale0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
